@@ -25,6 +25,6 @@ This project replicates the immersive UI/UX of the original site with smooth scr
 
 - **HTML5** – Structure  
 - **CSS3** – Styling & responsiveness  
-- **JavaScript (ES6)** – Interactivity & animations  
+- **JavaScript (ES6)** – Interactivity & animations 
 
 ---
